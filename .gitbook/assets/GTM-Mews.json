@@ -99,7 +99,7 @@
                     {
                         "type": "TEMPLATE",
                         "key": "measurementIdOverride",
-                        "value": "_GA4_ID_"
+                        "value": "G-LXN7CW0MK3"
                     }
                 ],
                 "fingerprint": "1713301558101",
@@ -124,7 +124,7 @@
                     {
                         "type": "TEMPLATE",
                         "key": "tagId",
-                        "value": "_GA4_ID_"
+                        "value": "G-LXN7CW0MK3"
                     }
                 ],
                 "fingerprint": "1703135014019",
@@ -174,7 +174,7 @@
                     {
                         "type": "TEMPLATE",
                         "key": "measurementIdOverride",
-                        "value": "_GA4_ID_"
+                        "value": "G-LXN7CW0MK3"
                     }
                 ],
                 "fingerprint": "1713301545910",
